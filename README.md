@@ -106,7 +106,7 @@
 
 #### Top Langs
 
-![luth's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luthsanches&layout=compact&exclude_repo=unity-nave-2d)
+![luth's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luthsanches&layout=compact)
 
 ### WakaTime Stats
 
