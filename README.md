@@ -98,6 +98,20 @@
 <br />
 <br />
 
+### Stats Cards
+
+#### Github Stats
+
+![luth's Github Stats](https://github-readme-stats.vercel.app/api?username=luthsanches&show_icons=true)
+
+#### Top Langs
+
+![luth's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luthsanches&layout=compact&exclude_repo=unity-nave-2d)
+
+### WakaTime Stats
+
+![luth's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=luthsanches)
+
 [linkedin]: https://www.linkedin.com/in/luth-de-menezes-sanches-61451b4a/
 [topics]https://github.com/topics
 
