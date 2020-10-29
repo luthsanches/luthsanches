@@ -106,11 +106,8 @@
 
 #### Top Langs
 
-![luth's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luthsanches&layout=compact)
+![luth's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luthsanches)
 
-### WakaTime Stats
-
-![luth's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=luthsanches)
 
 [linkedin]: https://www.linkedin.com/in/luth-de-menezes-sanches-61451b4a/
 [topics]https://github.com/topics
