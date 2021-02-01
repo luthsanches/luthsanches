@@ -26,6 +26,12 @@
     <td>Visual Studio</td>
 </tr>
 <tr>
+    <td><img align="left" alt=".NET Core" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png"></td>
+    <td>.NET Core</td>
+</tr>
+    
+    
+<tr>
     <td><img align="left" alt="Spring Tool Suite" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRRtQyXi1necbFlJOetK3_3MHaLeHDGZ-C3pw&usqp=CAU" /></td>
     <td>Spring Tool Suite</td>
 </tr>
