@@ -22,6 +22,10 @@
     <td>Visual Studio Code</td>
 </tr>
 <tr>
+    <td><img align="left" alt="Visual Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio.png"></td>
+    <td>Visual Studio</td>
+</tr>
+<tr>
     <td><img align="left" alt="Spring Tool Suite" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRRtQyXi1necbFlJOetK3_3MHaLeHDGZ-C3pw&usqp=CAU" /></td>
     <td>Spring Tool Suite</td>
 </tr>
