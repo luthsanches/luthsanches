@@ -23,17 +23,10 @@
     <td>Flutter</td>
     <td><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></td>
     <td>Visual Studio Code</td>
-</tr>
-<tr>
     <td><img align="left" alt="Visual Studio" width="26px" src="https://th.bing.com/th/id/OIP.zZ3PAHMT2YQGpTW783sC9gHaFy?pid=Api&rs=1"></td>
     <td>Visual Studio</td>
-</tr>
-<tr>
     <td><img align="left" alt=".NET Core" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png"></td>
-    <td>.NET Core</td>
-</tr>
-    
-    
+    <td>.NET Core</td>  
 <tr>
     <td><img align="left" alt="Spring Tool Suite" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRRtQyXi1necbFlJOetK3_3MHaLeHDGZ-C3pw&usqp=CAU" /></td>
     <td>Spring Tool Suite</td>
