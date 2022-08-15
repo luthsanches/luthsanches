@@ -72,10 +72,22 @@
     <td>Informatica Power Center</td>
     <td><img align="left" alt="Power BI" width="26px" src="https://img2.gratispng.com/20180920/zgq/kisspng-power-bi-business-intelligence-power-pivot-data-vi-5ba3629a15bc37.199013361537434266089.jpg" /></td>
     <td>Power BI</td>
+    <td><img align="left" alt="IntelliJ" width="26px" src="https://e7.pngegg.com/pngimages/788/545/png-clipart-ij-logo-with-black-blue-red-and-orange-background-intellij-idea-logo-icons-logos-emojis-tech-companies.png" /></td>
+    <td>IntelliJ</td>
+    <td><img align="left" alt="JUnit" width="26px" src="https://user-images.githubusercontent.com/33158051/103466459-7524de80-4d13-11eb-96ba-f13e5409a18a.png" /></td>
+    <td>JUnit</td>
+</tr>
+<tr>
+    <td><img align="left" alt="WireMock" width="26px" src="https://wiremock.org/images/shortLogo.png" /></td>
+    <td>WireMock</td>
+    <td><img align="left" alt="Mockito" width="26px" src="https://joaoarthurbm.github.io/arqsoft-blog/posts/mockito/mockito-logo.png" /></td>
+    <td>Mockito</td>
+    <td><img align="left" alt="Cucumber" width="26px" src="https://w7.pngwing.com/pngs/218/827/png-transparent-cucumber-behavior-driven-development-selenium-java-virtual-machine-cucumber.png" /></td>
+    <td>Cucumber</td>
+    
 </tr>
 </table>
 
-<br />
 <br />
 
 ### Stats Cards
