@@ -84,6 +84,8 @@
     <td>Mockito</td>
     <td><img align="left" alt="Cucumber" width="26px" src="https://w7.pngwing.com/pngs/218/827/png-transparent-cucumber-behavior-driven-development-selenium-java-virtual-machine-cucumber.png" /></td>
     <td>Cucumber</td>
+    <td><img align="left" alt="RabbitMQ" width="26px" src="https://pbs.twimg.com/profile_images/1223261138059780097/eH73w5lN_400x400.jpg" /></td>
+    <td>RabbitMQ</td>
     
 </tr>
 </table>
