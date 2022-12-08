@@ -88,6 +88,14 @@
     <td>RabbitMQ</td>
     
 </tr>
+<tr>
+    <td><img align="left" alt="Spring AMQP" width="26px" src="https://www.amqp.org/sites/amqp.org/themes/genesis_amqp/images/showreel/logo.png" /></td>
+    <td>Spring AMQP</td>
+    <td><img align="left" alt="Docker" width="26px" src="https://www.docker.com/wp-content/uploads/2021/10/Moby-logo-sm.png" /></td>
+    <td>Docker</td>
+    
+    
+</tr>
 </table>
 
 <br />
