@@ -50,7 +50,7 @@
 <tr>
     <td><img align="left" alt="JavaScript" width="26px" src="https://p1.hiclipart.com/preview/951/574/485/react-logo-javascript-redux-vuejs-angular-angularjs-expressjs-front-and-back-ends-png-clipart.jpg" /></td>
     <td>JavaScript</td>
-    <td><img align="left" alt="Node.js" width="26px" src="[https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png](https://banner2.cleanpng.com/20180425/jrw/ave9tlfdy.webp)" /></td>
+    <td><img align="left" alt="Node.js" width="26px" src="https://banner2.cleanpng.com/20180425/jrw/ave9tlfdy.webp" /></td>
     <td>Node.js</td>
     <td><img align="left" alt="SQL Server" width="26px" src="https://img2.gratispng.com/20180705/jhx/kisspng-microsoft-sql-server-computer-servers-dblink-5b3ea014e90550.0487060715308308689545.jpg" /></td>
     <td>SQL Server</td>
@@ -93,6 +93,8 @@
     <td>Spring AMQP</td>
     <td><img align="left" alt="Docker" width="26px" src="https://www.docker.com/wp-content/uploads/2021/10/Moby-logo-sm.png" /></td>
     <td>Docker</td>
+    <td><img align="left" alt="Docker" width="26px" src="https://logospng.org/wp-content/uploads/amazon-web-services.png" /></td>
+    <td>AWS</td>
     
     
 </tr>
