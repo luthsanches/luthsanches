@@ -5,8 +5,8 @@
 - ⚡ Fun: I love play games and play guitar
 
 ### Academic: 
-Bachelor of Information Systems (2012)
-Solution Architect Especialist (2024)
+- Bachelor of Information Systems (2012)
+- Solution Architect Especialist (2024)
  
 <br />
 
