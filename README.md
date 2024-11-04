@@ -6,7 +6,7 @@
 
 ### Academic: 
 - Bachelor of Information Systems (2012)
-- Solution Architect Especialist (2024)
+- Specialization in Solutions Architecture (2024)
  
 <br />
 
