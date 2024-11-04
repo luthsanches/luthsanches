@@ -4,7 +4,9 @@
 - 👯 I’m looking to collaborate with other people
 - ⚡ Fun: I love play games and play guitar
 
-Actually I am Software Engineer | Solutions Architect
+### Academic: 
+Bachelor of Information Systems (2012)
+Solution Architect Especialist (2024)
  
 <br />
 
@@ -102,6 +104,10 @@ Actually I am Software Engineer | Solutions Architect
 <tr>
     <td><img align="left" alt="Jest" width="26px" src="https://e7.pngegg.com/pngimages/755/519/png-clipart-jest-logo-tech-companies-thumbnail.png" /></td>
     <td>Jest</td>
+    <td><img align="left" alt="BitBucket" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOS0n_DK81yq4wx61fxrVNj-fGXoJg5C0COQ&s" /></td>
+    <td>BitBucket</td>
+
+    
     
 </tr>
 </table>
