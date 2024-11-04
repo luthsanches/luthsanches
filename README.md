@@ -4,7 +4,8 @@
 - 👯 I’m looking to collaborate with other people
 - ⚡ Fun: I love play games and play guitar
 
-
+Actually I am Software Engineer | Solutions Architect
+ 
 <br />
 
 ### Connect with me:
@@ -93,9 +94,14 @@
     <td>Spring AMQP</td>
     <td><img align="left" alt="Docker" width="26px" src="https://www.docker.com/wp-content/uploads/2021/10/Moby-logo-sm.png" /></td>
     <td>Docker</td>
-    <td><img align="left" alt="Docker" width="26px" src="https://logospng.org/wp-content/uploads/amazon-web-services.png" /></td>
+    <td><img align="left" alt="AWS" width="26px" src="https://logospng.org/wp-content/uploads/amazon-web-services.png" /></td>
     <td>AWS</td>
-    
+    <td><img align="left" alt="Apigee" width="26px" src="https://daston.com/wp-content/uploads/2022/05/Apigee.png" /></td>
+    <td>Apigee</td>
+</tr>
+<tr>
+    <td><img align="left" alt="Jest" width="26px" src="https://e7.pngegg.com/pngimages/755/519/png-clipart-jest-logo-tech-companies-thumbnail.png" /></td>
+    <td>Jest</td>
     
 </tr>
 </table>
