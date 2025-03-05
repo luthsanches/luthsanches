@@ -106,9 +106,20 @@
     <td>Jest</td>
     <td><img align="left" alt="BitBucket" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOS0n_DK81yq4wx61fxrVNj-fGXoJg5C0COQ&s" /></td>
     <td>BitBucket</td>
+    <td><img align="left" alt="Redis" width="26px" src="https://e7.pngegg.com/pngimages/540/594/png-clipart-redis-distributed-cache-go-data-structure-nodejs-sticker-nodejs.png" /></td>
+    <td>Redis</td>
+    <td><img align="left" alt="Jenkins" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1483px-Jenkins_logo.svg.png" /></td>
+    <td>Jenkins</td>
+</tr>
+<tr>
+    <td><img align="left" alt="Veracode" width="26px" src="[https://e7.pngegg.com/pngimages/755/519/png-clipart-jest-logo-tech-companies-thumbnail.png](https://cdn.prod.website-files.com/5f10ed4c0ebf7221fb5661a5/5f2b63d3a830c56aeafcc618_Veracode_logo.png)" /></td>
+    <td>Veracode</td>
+    <td><img align="left" alt="Sonarqube" width="26px" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOS0n_DK81yq4wx61fxrVNj-fGXoJg5C0COQ&s](https://artifacthub.io/image/949a653d-9573-4e6f-8a20-443126e55656@3x)" /></td>
+    <td>Sonarqube</td>
+    <td><img align="left" alt="Cypress" width="26px" src="https://miro.medium.com/v2/resize:fit:600/0*YtCzzpjWb60A_P3-.png" /></td>
+    <td>Cypress</td>
 
-    
-    
+ 
 </tr>
 </table>
 
