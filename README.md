@@ -112,9 +112,9 @@
     <td>Jenkins</td>
 </tr>
 <tr>
-    <td><img align="left" alt="Veracode" width="26px" src="[https://e7.pngegg.com/pngimages/755/519/png-clipart-jest-logo-tech-companies-thumbnail.png](https://cdn.prod.website-files.com/5f10ed4c0ebf7221fb5661a5/5f2b63d3a830c56aeafcc618_Veracode_logo.png)" /></td>
+    <td><img align="left" alt="Veracode" width="26px" src="https://media.licdn.com/dms/image/v2/D560BAQHui0cbFdElXA/company-logo_200_200/company-logo_200_200/0/1738324699808/veracode_logo?e=2147483647&v=beta&t=3mxm2t0lz1Z3t-l7FbO6hnqWw9cKgh5lOR0exYKXv8o" /></td>
     <td>Veracode</td>
-    <td><img align="left" alt="Sonarqube" width="26px" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOS0n_DK81yq4wx61fxrVNj-fGXoJg5C0COQ&s](https://artifacthub.io/image/949a653d-9573-4e6f-8a20-443126e55656@3x)" /></td>
+    <td><img align="left" alt="Sonarqube" width="26px" src="https://images.seeklogo.com/logo-png/46/3/sonarqube-logo-png_seeklogo-467003.png" /></td>
     <td>Sonarqube</td>
     <td><img align="left" alt="Cypress" width="26px" src="https://miro.medium.com/v2/resize:fit:600/0*YtCzzpjWb60A_P3-.png" /></td>
     <td>Cypress</td>
