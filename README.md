@@ -114,7 +114,7 @@
 <tr>
     <td><img align="left" alt="Veracode" width="26px" src="https://media.licdn.com/dms/image/v2/D560BAQHui0cbFdElXA/company-logo_200_200/company-logo_200_200/0/1738324699808/veracode_logo?e=2147483647&v=beta&t=3mxm2t0lz1Z3t-l7FbO6hnqWw9cKgh5lOR0exYKXv8o" /></td>
     <td>Veracode</td>
-    <td><img align="left" alt="Sonarqube" width="26px" src="https://images.seeklogo.com/logo-png/46/3/sonarqube-logo-png_seeklogo-467003.png" /></td>
+    <td><img align="left" alt="Sonarqube" width="26px" src="https://cdn.worldvectorlogo.com/logos/sonarqube-1.svg" /></td>
     <td>Sonarqube</td>
     <td><img align="left" alt="Cypress" width="26px" src="https://miro.medium.com/v2/resize:fit:600/0*YtCzzpjWb60A_P3-.png" /></td>
     <td>Cypress</td>
