@@ -165,14 +165,14 @@
 
 <br />
 
-### Connect with me:
+### Me adicione nas redes sociais:
 
 [<img align="left" alt="luthsanches | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br />
 
-### Languages and Tools:
+### Linguagens e Ferramentas:
 
 
 <table border="0">
@@ -280,13 +280,13 @@
 
 <br />
 
-### Stats Cards
+### Cartões
 
-#### Github Stats
+#### Github
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luthsanches&show_icons=true)
 
-#### Top Langs
+#### Top Linguagens
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luthsanches)](https://github.com/anuraghazra/github-readme-stats)
 
