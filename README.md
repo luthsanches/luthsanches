@@ -1,6 +1,6 @@
 ### Sobre mim:
 
-*Engenheiro de software com mais de 13 anos de experiência em projetos desafiadores, com foco em arquitetura de software e soluções escaláveis, resilientes e de alta disponibilidade. Sólida experiência em desenvolvimento de micro serviços, integrações e cloud computing.*
+*Engenheiro de software com mais de 16 anos de experiência em projetos desafiadores, com foco em arquitetura de software e soluções escaláveis, resilientes e de alta disponibilidade. Sólida experiência em desenvolvimento de micro serviços, integrações e cloud computing.*
 
 ### Acadêmico
 
