@@ -1,13 +1,168 @@
-### About me:
-- 👪 I’m father, developer and inventor
-- 🌱 I’m always learning something
-- 👯 I’m looking to collaborate with other people
-- ⚡ Fun: I love play games and play guitar
+### Sobre mim:
+- 👪 Eu sou pai, desenvolvedor e inventor
+- 🌱 Eu estou sempre aprendendo algo
+- 👯 Eu gosto muito de colaborar e participar de grupos
+- ⚡ Eu gosto de jogar video games, tocar guitarra e assistir animes
 
-### Academic: 
-- Bachelor of Information Systems (2012)
-- Specialization in Solutions Architecture (2024)
- 
+### Acadêmico
+
+- **Bacharel em Sistemas de Informação** (2012)  
+- **Especialização em Arquitetura de Soluções** (2024)
+
+---
+
+### Experiências
+
+#### Desenvolvedor Backend L3 - GFT *(Junho de 2021 - Até o momento)*  
+**Desenvolvedor Backend**  
+**Deploy de aplicações**  
+**Sustentação de aplicações**  
+
+**Projetos:**
+
+- **Serasa - Resilient Evil** *(09/2024 até o momento)*  
+  - **Descrição:** Desenvolvimento de Frontend relacionados à área de B2C  
+  - **Tecnologias:** Jest, JWT, GIT, Jenkins, AWS, Angular 17, S3, Cloud Front, SonarQube, Veracode, Cypress.  
+
+- **Serasa - Sales Creed** *(01/2023 até 09/2024)*  
+  - **Descrição:** Desenvolvimento de micro serviços relacionados à área de B2C e B2B  
+  - **Resultado:** Melhoria dos custos das interações entre as áreas em 30%  
+  - **Tecnologias:** Java, Spring Suite, Maven, MS SQL Server, MongoDB, Apache Tomcat, IntelliJ, JUnit, JWT, GIT, Jenkins, AWS, Outsystems, Redis, Angular 17, EKS, SonarQube, SQS, Veracode, Cucumber, Cypress  
+
+- **CVC - B2B** *(11/2022 até 12/2022)*  
+  - **Descrição:** Desenvolvimento de micro serviços para integração de faturamento  
+  - **Resultado:** Aumento do faturamento em 25% pelos meios digitais  
+  - **Tecnologias:** Java, Spring Suite, Maven, MongoDB, Apache Tomcat, IntelliJ, JUnit, JWT, GIT, Jenkins, Consul, RabbitMQ  
+
+- **CVC - B2B2C** *(07/2021 até 10/2022)*  
+  - **Descrição:** Desenvolvimento de micro serviços para operação de vendas B2B2C  
+  - **Resultado:** Aumento da performance de vendas em 40%  
+  - **Tecnologias:** Java, Spring Suite, Maven, Oracle, Apache Tomcat, IntelliJ, JUnit, JWT, GIT, Jenkins, WireMock, Consul  
+
+---
+
+#### Analista de Sistemas Sênior - Detran Bahia *(Fevereiro de 2021 até Junho de 2021)*  
+**Desenvolvimento de sistemas**  
+**Manutenção em sistemas legados**  
+
+**Projetos:**  
+
+- **Vistoria Mobile** *(02/2021 até 06/2021)*  
+  - **Descrição:** Adição de features para o app de vistoria mobile utilizado pelos agentes  
+  - **Tecnologias:** C#, Xamarin  
+
+---
+
+#### Coordenador de Inovação e Novas Tecnologias - UniFTC *(Março de 2020 até Fevereiro de 2021)*  
+**Gestão da equipe de desenvolvimento**
+
+**Projetos:**
+
+- **Pagamentos** *(Dez/2020 até Fev/2021)*  
+  - **Descrição:** Sistema de pagamento de cartão GetNet integrado ao sistema acadêmico  
+  - **Resultado:** Aumento da arrecadação em 20% e redução de custo com pessoal em 10%  
+  - **Tecnologias:** Java, Spring, Maven, MS SQL, Apache Tomcat, IntelliJ, JUnit, JWT, GIT
+
+- **Portal Institucional** *(Jul/2020 até Dez/2020)*  
+  - **Descrição:** Modernização dos portais de aluno, docente e backoffice  
+  - **Resultado:** Melhoria da experiência do cliente  
+  - **Tecnologias:** Java, Spring, Maven, MS SQL, Apache Tomcat, IntelliJ, JUnit, JWT, GIT
+
+- **Agendamentos Institucionais** *(Jun/2020 até Jul/2020)*  
+  - **Descrição:** Gestão de aulas práticas durante pandemia  
+  - **Resultado:** Redução de aglomerações e segurança nas aulas  
+  - **Tecnologias:** Java, Spring, Maven, MS SQL, Apache Tomcat, IntelliJ, JUnit, JWT, GIT
+
+- **Bolsas Institucionais** *(Mai/2020 até Jun/2020)*  
+  - **Descrição:** Gestão de bolsas para área comercial  
+  - **Resultado:** Aumento da arrecadação em 15%  
+  - **Tecnologias:** Java, Spring, Maven, MS SQL, Apache Tomcat, IntelliJ, JUnit, JWT, GIT
+
+- **Avisos Institucionais** *(Abr/2020 até Mai/2020)*  
+  - **Descrição:** Sistema de gestão de avisos institucionais  
+  - **Resultado:** Aumento de eficiência em 10%  
+  - **Tecnologias:** Java, Spring, Maven, MS SQL, Apache Tomcat, IntelliJ, JUnit, JWT, GIT
+
+- **Campanhas Institucionais** *(Fev/2020 até Abr/2020)*  
+  - **Descrição:** Gestão de campanhas institucionais e inscrições em eventos  
+  - **Resultado:** Aumento de adesão de novos alunos em 15%  
+  - **Tecnologias:** Java, Spring, Maven, MS SQL, Apache Tomcat, IntelliJ, JUnit, JWT, GIT
+
+---
+
+#### Analista de Migração Sênior - Dealernet *(Março de 2019 até Fevereiro de 2020)*  
+**Desenvolvimento de sistemas internos e migração de dados dos clientes**  
+**Tecnologias:** HTML, CSS, JavaScript, JQuery, AJAX, XML, XHTML, Java, JSF, JSP, Primefaces, iReport, Maven, MS SQL, MySQL, EJB, Apache Tomcat, NetBeans, Hibernate, SQL, MS Reporting Services  
+
+---
+
+#### Analista de Sistemas Sênior - Capgemini *(Setembro de 2018 até Fevereiro de 2019)*  
+**Responsável por cargas de dados no Bradesco Seguros com Power Center**  
+**Tecnologias:** Power Center, Oracle, DB2  
+
+---
+
+#### Analista de Migração Pleno - Dealernet *(Novembro de 2016 até Setembro de 2018)*  
+**Desenvolvimento de sistemas internos e migração de dados**
+
+**Projetos:**
+
+- **Sistema da Implantação** *(Jan/2017 até Jul/2017)*  
+  - **Descrição:** Sistema de gestão visual das fases da implantação  
+  - **Tecnologias:** HTML, CSS, JavaScript, JQuery, AJAX, XML, XHTML, Java, JSF, JSP, Primefaces, iReport, Maven, MS SQL, MySQL, EJB, Apache Tomcat, NetBeans, Hibernate, SQL, MS Reporting Services
+
+- **De-Para de migração** *(Nov/2016 até Dez/2016)*  
+  - **Descrição:** Sistema para mapeamento de dados pelo cliente  
+  - **Tecnologias:** Mesmas do projeto anterior
+
+---
+
+#### Analista de Sistemas Pleno - UNIFACS *(Junho de 2015 - Novembro de 2016)*  
+**Responsável por relatórios gerenciais e BI**
+
+**Projetos:**
+
+- **Data Warehouse Comercial** *(Jun/2015 até Out/2016)*  
+  - **Descrição:** Previsão de evasão de alunos  
+  - **Tecnologias:** MS SQL, Data Warehouse, Power BI, MS Reporting Services
+
+- **Data Warehouse Acadêmico** *(Jun/2015 até Out/2016)*  
+  - **Descrição:** Apoio acadêmico com análises estratégicas  
+  - **Tecnologias:** MS SQL, Data Warehouse, Power BI, MS Reporting Services
+
+---
+
+#### Analista de Sistemas Júnior - Unijorge *(Maio de 2013 - Maio de 2015)*  
+**Suporte ao ERP Lyceum e desenvolvimento de sistemas**
+
+**Projetos:**
+
+- **Login no Portal Acadêmico** *(Jan/2014 até Mar/2014)*  
+  - **Descrição:** Interface de login para o Lyceum  
+  - **Tecnologias:** HTML, CSS, JavaScript, JQuery, AJAX, XML, XHTML, Java, JSF, JSP, Primefaces, iReport, Maven, MS SQL, MySQL, EJB, Apache Tomcat, NetBeans, Hibernate
+
+- **Controle de Aulas Docentes** *(Nov/2013 até Jan/2014)*  
+  - **Descrição:** Sistema para início e finalização de aulas  
+  - **Tecnologias:** Mesmas do projeto anterior
+
+---
+
+#### Analista de Sistemas Júnior - Citéluz *(Agosto de 2009 - Maio de 2013)*  
+  Implantação de data center de novas filiais;  
+  Suporte ao data center da matriz;  
+  Revisor de políticas de segurança da informação;  
+  Desenvolvedor PHP;  
+  Pesquisador de novas tecnologias;  
+  Administrador de domínios Microsoft;  
+  Virtualização com Hyper-V;  
+
+**Projetos:**
+
+- **Implantação de sofware de Chamados Ocomon** *(Nov/2012 até Jan/2013)*  
+  - **Descrição:** Customização do sistema Ocomon para adequação ao trabalho da organização.
+  - **Tecnologias:** HTML, CSS, JavaScript, AJAX, XML, Oracle, MS SQL, PL/SQL, PHP 5
+  
+
 <br />
 
 ### Connect with me:
@@ -37,7 +192,7 @@
     <td>NetBeans</td>
     <td><img align="left" alt="Spring Boot" width="26px" src="https://klauslaube.com.br/static/53761801e751a743e9d088f6a0383f9a/spring-boot-project-logo.png" /></td>
     <td>Spring Boot</td>
-    <td><img align="left" alt="Java 8" width="26px" src="https://img2.gratispng.com/20180517/zve/kisspng-java-programmer-computer-programming-logo-5afe2f1dcf9897.0745314915266076458503.jpg" /></td>
+    <td><img align="left" alt="Java" width="26px" src="https://www.citypng.com/public/uploads/preview/hd-java-logo-transparent-background-701751694771845zainlxmlfo.png" /></td>
     <td>Java</td>
 </tr>
 <tr>
@@ -47,7 +202,7 @@
     <td>Angular</td>
     <td><img align="left" alt="HTML5" width="26px" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" /></td>
     <td>HTML5</td>
-    <td><img align="left" alt="CSS3" width="26px" src="https://img2.gratispng.com/20180816/rcw/kisspng-cascading-style-sheets-logo-clip-art-css3-html-5b7617f67bd3d6.3499284915344660385072.jpg" /></td>
+    <td><img align="left" alt="CSS3" width="26px" src="https://logospng.org/wp-content/uploads/css-3.png" /></td>
     <td>CSS3</td>
 </tr>
 <tr>
@@ -55,15 +210,15 @@
     <td>JavaScript</td>
     <td><img align="left" alt="Node.js" width="26px" src="https://banner2.cleanpng.com/20180425/jrw/ave9tlfdy.webp" /></td>
     <td>Node.js</td>
-    <td><img align="left" alt="SQL Server" width="26px" src="https://img2.gratispng.com/20180705/jhx/kisspng-microsoft-sql-server-computer-servers-dblink-5b3ea014e90550.0487060715308308689545.jpg" /></td>
+    <td><img align="left" alt="SQL Server" width="26px" src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png" /></td>
     <td>SQL Server</td>
-    <td><img align="left" alt="MySQL" width="26px" src="https://img2.gratispng.com/20180803/bkf/kisspng-logo-mysql-database-phpmyadmin-mysql-digital-agency-maidenhead-web-agency-uk-5b6475c3513438.3209368415333104033326.jpg" /></td>
+    <td><img align="left" alt="MySQL" width="26px" src="https://www.citypng.com/public/uploads/preview/hd-mysql-logo-transparent-background-701751694771788209ydqoapx.png" /></td>
     <td>MySQL</td>
 </tr>
 <tr>
     <td><img align="left" alt="Oracle" width="26px" src="https://miro.medium.com/max/510/1*gXwiO-F1wgyeykGFnQ1iIg.png" /></td>
     <td>PL SQL</td>
-    <td><img align="left" alt="Git" width="26px" src="https://img2.gratispng.com/20180824/xrj/kisspng-computer-icons-pro-git-portable-network-graphics-i-git-book-pro-git-app-app-5b80546c0b1311.5417567715351368760454.jpg" /></td>
+    <td><img align="left" alt="Git" width="26px" src="https://w7.pngwing.com/pngs/155/858/png-transparent-git-icon-hd-logo-thumbnail.png" /></td>
     <td>Git</td>
     <td><img align="left" alt="GitHub" width="26px" src="https://i.pinimg.com/originals/b1/5e/ed/b15eedbdafbbdbca3249e3942f4faf3b.png" /></td>
     <td>GitHub</td>
@@ -73,7 +228,7 @@
 <tr>
     <td><img align="left" alt="Power Center" width="26px" src="https://software-advice.imgix.net/managed/products/logos/logo_final_2.jpg?auto=format&w=310" /></td>
     <td>Informatica Power Center</td>
-    <td><img align="left" alt="Power BI" width="26px" src="https://img2.gratispng.com/20180920/zgq/kisspng-power-bi-business-intelligence-power-pivot-data-vi-5ba3629a15bc37.199013361537434266089.jpg" /></td>
+    <td><img align="left" alt="Power BI" width="26px" src="https://e7.pngegg.com/pngimages/327/384/png-clipart-power-bi-business-intelligence-microsoft-azure-microsoft-dynamics-cloud-computing-cloud-computing-angle-text-thumbnail.png" /></td>
     <td>Power BI</td>
     <td><img align="left" alt="IntelliJ" width="26px" src="https://e7.pngegg.com/pngimages/788/545/png-clipart-ij-logo-with-black-blue-red-and-orange-background-intellij-idea-logo-icons-logos-emojis-tech-companies.png" /></td>
     <td>IntelliJ</td>
