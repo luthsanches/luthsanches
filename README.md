@@ -1,8 +1,6 @@
 ### Sobre mim:
-- 👪 Eu sou pai, desenvolvedor e inventor
-- 🌱 Eu estou sempre aprendendo algo
-- 👯 Eu gosto muito de colaborar e participar de grupos
-- ⚡ Eu gosto de jogar video games, tocar guitarra e assistir animes
+
+*Engenheiro de software com mais de 13 anos de experiência em projetos desafiadores, com foco em arquitetura de software e soluções escaláveis, resilientes e de alta disponibilidade. Sólida experiência em desenvolvimento de micro serviços, integrações e cloud computing.*
 
 ### Acadêmico
 
