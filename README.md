@@ -89,8 +89,9 @@
 ---
 
 #### Analista de Migração Sênior - Dealernet *(Março de 2019 até Fevereiro de 2020)*  
-**Desenvolvimento de sistemas internos e migração de dados dos clientes**  
-**Tecnologias:** HTML, CSS, JavaScript, JQuery, AJAX, XML, XHTML, Java, JSF, JSP, Primefaces, iReport, Maven, MS SQL, MySQL, EJB, Apache Tomcat, NetBeans, Hibernate, SQL, MS Reporting Services  
+**Desenvolvimento de sistemas internos**  
+**Migração de dados dos clientes**  
+**Tecnologias:** HTML, CSS, JavaScript, JQuery, AJAX, XML, XHTML, Java, JSF, Primefaces, iReport, Maven, MS SQL, MySQL, Apache Tomcat, NetBeans, Hibernate, SQL, MS Reporting Services  
 
 ---
 
@@ -101,17 +102,18 @@
 ---
 
 #### Analista de Migração Pleno - Dealernet *(Novembro de 2016 até Setembro de 2018)*  
-**Desenvolvimento de sistemas internos e migração de dados**
+**Desenvolvimento de sistemas internos**  
+**Migração de dados dos clientes**  
 
 **Projetos:**
 
 - **Sistema da Implantação** *(Jan/2017 até Jul/2017)*  
   - **Descrição:** Sistema de gestão visual das fases da implantação  
-  - **Tecnologias:** HTML, CSS, JavaScript, JQuery, AJAX, XML, XHTML, Java, JSF, JSP, Primefaces, iReport, Maven, MS SQL, MySQL, EJB, Apache Tomcat, NetBeans, Hibernate, SQL, MS Reporting Services
+  - **Tecnologias:** HTML, CSS, JavaScript, JQuery, AJAX, XML, XHTML, Java, JSF, Primefaces, iReport, Maven, MS SQL, MySQL, Apache Tomcat, NetBeans, Hibernate, SQL, MS Reporting Services
 
 - **De-Para de migração** *(Nov/2016 até Dez/2016)*  
   - **Descrição:** Sistema para mapeamento de dados pelo cliente  
-  - **Tecnologias:** Mesmas do projeto anterior
+  - **Tecnologias:** HTML, CSS, JavaScript, JQuery, AJAX, XML, XHTML, Java, JSF, Primefaces, iReport, Maven, MS SQL, MySQL, Apache Tomcat, NetBeans, Hibernate, SQL, MS Reporting Services
 
 ---
 
