@@ -12,9 +12,14 @@
 ### Experiências
 
 #### Desenvolvedor Backend L3 - GFT *(Junho de 2021 - Até o momento)*  
-**Desenvolvedor Backend**  
-**Deploy de aplicações**  
-**Sustentação de aplicações**  
+**Desenvolvimento de Micro serviços;**  
+**Desenvolvimento de Frontend;**  
+**Desenho de soluções;**  
+**Tuning de consultas em bancos de dados;**  
+**Melhorias de arquiteturas existentes;**  
+**Code review do time;**  
+**Apoio junto ao cliente na tomada de decisão.**  
+
 
 **Projetos:**
 
