@@ -1,4 +1,4 @@
-### Sobre mim:
+### Sobre mim
 
 *Engenheiro de software com mais de 16 anos de experiência em projetos desafiadores, com foco em arquitetura de software e soluções escaláveis, resilientes e de alta disponibilidade. Sólida experiência em desenvolvimento de micro serviços, integrações e cloud computing.*
 
@@ -6,6 +6,12 @@
 
 - **Bacharel em Sistemas de Informação** (2012)  
 - **Especialização em Arquitetura de Soluções** (2024)
+
+### Idiomas
+
+- **Inglês** (Intermediário - B1)
+- **Português** (Nativo)
+- **Espanhol** (Basico - A1)
 
 ---
 
