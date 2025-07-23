@@ -17,7 +17,19 @@
 
 ### Experiências
 
-#### Desenvolvedor Backend L3 - GFT *(Junho de 2021 - Até o momento)*  
+
+#### Tech Lead - Serasa Experian (Julho de 2025 - Até o momento)
+
+**Liderança técnica de equipes de desenvolvimento, atuando na definição e evolução de arquiteturas de software;**
+**Estabelecimento de padrões de codificação, testes e boas práticas para garantir a qualidade e manutenibilidade das soluções;**
+**Revisão de código (code review) com foco em performance, segurança e aderência às melhores práticas;**
+**Apoio ao time no diagnóstico e resolução de desafios técnicos complexos, promovendo a troca de conhecimento e o crescimento técnico dos desenvolvedores;**
+**Alinhamento constante com áreas de produto e negócios para garantir entregas técnicas alinhadas aos objetivos estratégicos;**
+**Planejamento e acompanhamento das entregas, promovendo agilidade, qualidade e remoção de impedimentos;**
+**Escolha e validação de tecnologias adequadas para cada contexto, priorizando escalabilidade e performance;**
+**Facilitação da comunicação entre stakeholders técnicos e não técnicos, atuando como ponte entre tecnologia e negócio;**
+
+#### Desenvolvedor Backend L3 - GFT *(Junho de 2021 - Junho de 2025)*  
 **Desenvolvimento de Micro serviços;**  
 **Desenvolvimento de Frontend;**  
 **Desenho de soluções;**  
