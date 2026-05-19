@@ -313,5 +313,7 @@
 #### Top Linguagens
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luthsanches)](https://github.com/anuraghazra/github-readme-stats)
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=luthsanches&layout=compact&theme=radical&hide=swift,csharp'/>
+
 
 [linkedin]: https://www.linkedin.com/in/luth-de-menezes-sanches-61451b4a/
